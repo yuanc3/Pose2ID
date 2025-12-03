@@ -20,15 +20,15 @@ Beihang University
     <a href='https://huggingface.co/yuanc3/Pose2ID'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Model-yellow'></a>
 </div>
 
+<p align="center"><i>🔥 A very <b>simple</b> but <b>efficient</b> framework for <b>ReID</b> tasks/models. 🔥</i></p>
+
+<p align="center"><i>🔥 A powerful <b>pedestrian generation model (IPG)</b> across <b>rgb</b>, <b>infrared</b>, and <b>occlusion</b> scenes. 🔥</i></p>
+
 <p align="center"><i>[2025-12-03 NEWS!!!]🔥 We launched OmniPerson, an Omni and powerful Pedestrian Generation Model. 🔥</i></p>
 <div align='center'>
     <a href='https://2512.02554'><img src='https://img.shields.io/badge/OmniPerson-Paper-red'></a>
     <a href='https://github.com/maxiaoxsi/OmniPerson'><img src='https://img.shields.io/badge/OmniPerson-Github-blue'></a>
 </div>
-
-<p align="center"><i>🔥 A very <b>simple</b> but <b>efficient</b> framework for <b>ReID</b> tasks/models. 🔥</i></p>
-
-<p align="center"><i>🔥 A powerful <b>pedestrian generation model (IPG)</b> across <b>rgb</b>, <b>infrared</b>, and <b>occlusion</b> scenes. 🔥</i></p>
 
 
 ![Image](figs/visualization.png "Generated Images with our IPG model")
