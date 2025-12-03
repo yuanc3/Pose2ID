@@ -1,8 +1,9 @@
 <h1 align='center'>From Poses to Identity: Training-Free Person Re-Identification via Feature Centralization</h1>
 
+
 <div align='center'>
-    <a href='https://github.com/yuanc3' target='_blank'>Chao Yuan</a><sup>*</sup>&emsp;
-    <a href='https://github.com/zhangguiwei610' target='_blank'>Guiwei Zhang</a><sup>*</sup>&emsp;
+    <a href='https://github.com/yuanc3' target='_blank'>Chao Yuan</a><sup></sup>&emsp;
+    <a href='https://github.com/zhangguiwei610' target='_blank'>Guiwei Zhang</a><sup></sup>&emsp;
     <a href='https://github.com/maxiaoxsi' target='_blank'>Changxiao Ma</a><sup></sup>&emsp;
     <a href='https://github.com/sapphire22' target='_blank'>Tianyi Zhang</a><sup></sup>&emsp;
     <a href='https://github.com/ngl567'  target='_blank'>Guanglin Niu</a><sup></sup>
@@ -15,13 +16,14 @@ Beihang University
 
 
 <div align='center'>
-    <a href='https://arxiv.org/abs/2503.00938'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
+    <a href='https://arxiv.org/abs/2503.00938'><img src='https://img.shields.io/badge/Pose2ID-Paper-red'></a>
     <a href='https://huggingface.co/yuanc3/Pose2ID'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Model-yellow'></a>
+</div>
 
-
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/from-poses-to-identity-training-free-person/person-re-identification-on-market-1501)](https://paperswithcode.com/sota/person-re-identification-on-market-1501?p=from-poses-to-identity-training-free-person)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/from-poses-to-identity-training-free-person/person-re-identification-on-occluded-reid-1)](https://paperswithcode.com/sota/person-re-identification-on-occluded-reid-1?p=from-poses-to-identity-training-free-person)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/from-poses-to-identity-training-free-person/cross-modal-person-re-identification-on-sysu)](https://paperswithcode.com/sota/cross-modal-person-re-identification-on-sysu?p=from-poses-to-identity-training-free-person)
+<p align="center"><i>[2025-12-03 NEWS!!!]🔥 We launched OmniPerson, an Omni and powerful Pedestrian Generation Model. 🔥</i></p>
+<div align='center'>
+    <a href='https://2512.02554'><img src='https://img.shields.io/badge/OmniPerson-Paper-red'></a>
+    <a href='https://github.com/maxiaoxsi/OmniPerson'><img src='https://img.shields.io/badge/OmniPerson-Github-blue'></a>
 </div>
 
 <p align="center"><i>🔥 A very <b>simple</b> but <b>efficient</b> framework for <b>ReID</b> tasks/models. 🔥</i></p>
@@ -41,9 +43,8 @@ We proposed:
 
 
 
-
-
 ## &#x1F4E3; Updates
+* [2025.12.03] 🔥🔥🔥 We launched [OmniPerson](http://arxiv.org/abs/2512.02554), a powerful Pedestrian Generation Model. (images/videos/infrared/muti-reference) Code is avaliable [here](https://github.com/maxiaoxsi/OmniPerson)
 * [2025.03.19] 🔥 A demo of TransReID on Market1501 is available!
 * [2025.03.06] 🔥 Pretrained weights is available on [HuggingFace](https://huggingface.co/yuanc3/Pose2ID)!
 * [2025.03.04] 🔥 Paper is available on [Arxiv](https://arxiv.org/abs/2503.00938)!
@@ -222,10 +223,10 @@ We use [DWpose](https://github.com/IDEA-Research/DWPose) to get poses with 18 ke
 
 |  Status  | Milestone                                                                | ETA |
 |:--------:|:-------------------------------------------------------------------------|:--:|
-|    🚀    | Training codes       | TBD |
-|    🚀    | IPG model trained on more data       | TBD |
-|    🚀    | IPG model with modality transfer ability (RGB2IR)      | TBD |
-|    🚀    | Video-IPG model      | TBD |
+|    🚀    | Training codes       | [OmniPerson](https://github.com/maxiaoxsi/OmniPerson) |
+|    🚀    | IPG model trained on more data       | [OmniPerson](https://github.com/maxiaoxsi/OmniPerson) |
+|    🚀    | IPG model with modality transfer ability (RGB2IR)      | [OmniPerson](https://github.com/maxiaoxsi/OmniPerson) |
+|    🚀    | Video-IPG model      | [OmniPerson](https://github.com/maxiaoxsi/OmniPerson) |
 
 ## 📒 Citation
 
